@@ -1,6 +1,10 @@
-# Example Home Assistant add-on repository
+# Nightscout HAOS / HASSIO addon
 
-This repository can be used as a "blueprint" for add-on development to help you get started.
+Aim is to build fresh, from official HAOS Addon template, using official Nightscout docker image.
+
+Work begins...
+
+----
 
 Add-on documentation: <https://developers.home-assistant.io/docs/add-ons>
 
